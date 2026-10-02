@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+
 /* 
 *Autor: Andrii Khaustovych
 * 02.10.2026
