@@ -8,7 +8,7 @@
 
 int main()
 {
-    float a, b, perimetr, area;
+    float a, b, perimeter, area;
     int is_rectangle, is_square;
    
     printf("RECTANGLE PERIMETER AND AREA CALCULATOR\n");
@@ -29,7 +29,7 @@ int main()
     perimetr = 2 * (a + b);
     area = a * b;
 
-   printf("Perimetr: %.2f\n", perimetr);
+   printf("Perimeter: %.2f\n", perimeter);
    printf("Area: %.2f\n", area);
    if (a == b)
 {
