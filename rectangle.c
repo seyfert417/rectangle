@@ -26,7 +26,7 @@ int main()
         printf("Error: Input must be a positive number!\n");
         return 1;
 }
-    perimetr = 2 * (a + b);
+    perimeter = 2 * (a + b);
     area = a * b;
 
    printf("Perimeter: %.2f\n", perimeter);
